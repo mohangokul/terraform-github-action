@@ -3,7 +3,7 @@
 variable "key_name" {
   type = string
  description = "key name"
- default = "terraform_Terraform"
+ default = "Neeharika_Terraform"
 }
 variable "region" {
   type    = string
